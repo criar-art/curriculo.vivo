@@ -1,10 +1,10 @@
 {
-  "name": "criarcurriculo",
-  "version": "3.0.0",
+  "name": "curriculo.vivo",
+  "version": "1.0.0",
   "author": "lucasferreiralimax (https://github.com/lucasferreiralimax)",
-  "repository": "https://github.com/lucasferreiralimax/criarcurriculo",
+  "repository": "https://github.com/criar-art/curriculo.vivo",
   "bugs": {
-    "url": "https://github.com/lucasferreiralimax/criarcurriculo/issues"
+    "url": "https://github.com/criar-art/curriculo.vivo/issues"
   },
   "scripts": {
     "start": "vite --host localhost --port 9999",

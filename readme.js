@@ -27,7 +27,7 @@ for (let language in list_languages) {
 
 readme += `\n___
 # :love_letter: Ajude também
-> Se encontrar algum erro ou quiser contribuir com uma ideia para o projeto crie uma [issue](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), sua ajuda será muito bem-vinda desde já agradeço. :clap:
+> Se encontrar algum erro ou quiser contribuir com uma ideia para o projeto crie uma [issue](https://github.com/criar-art/curriculo.vivo/issues/new), sua ajuda será muito bem-vinda desde já agradeço. :clap:
 >
 > Escrito para diversos idiomas, ajude a melhorar nossas traduções :earth_americas::earth_africa::earth_asia:
 ---
@@ -38,7 +38,7 @@ readme += `\n___
 > The application was developed with several interactive components with transitions and animations, rich in usability.
 > With an interface fully adaptable and reactive to the screen size of the device used.
 #### Help also
-> If you find a mistake or want to contribute an idea to the project, create a [issue](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), Your help will be greatly appreciated.
+> If you find a mistake or want to contribute an idea to the project, create a [issue](https://github.com/criar-art/curriculo.vivo/issues/new), Your help will be greatly appreciated.
 >
 > Written for different languages, help improve our translations
 ---
@@ -49,7 +49,7 @@ readme += `\n___
 > La aplicación fue desarrollada con diversos componentes interactivos con transiciones y animaciones, rica en usabilidad.
 > Con una interfaz totalmente adaptable y reactiva al tamaño de la pantalla del dispositivo utilizado.
 #### Ayuda también
-> Si encuentras algún error o quieres contribuir con una idea para el proyecto, crea un [issue](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), tu ayuda será muy bienvenido desde ya gracias.
+> Si encuentras algún error o quieres contribuir con una idea para el proyecto, crea un [issue](https://github.com/criar-art/curriculo.vivo/issues/new), tu ayuda será muy bienvenido desde ya gracias.
 >
 > Escrito para varios idiomas, ayude a mejorar nuestras traducciones
 ---
@@ -60,7 +60,7 @@ readme += `\n___
 > Приложение разработано с несколькими интерактивными компонентами с переходами и анимациями, богатыми удобством использования.
 > С интерфейсом, полностью адаптируемым и реагирующим на размер экрана используемого устройства.
 #### Помощь также
-> Если вы обнаружили ошибку или хотите внести свой вклад в проект, создайте [вопрос](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), с вашей помощью ваша помощь будет очень рада.
+> Если вы обнаружили ошибку или хотите внести свой вклад в проект, создайте [вопрос](https://github.com/criar-art/curriculo.vivo/issues/new), с вашей помощью ваша помощь будет очень рада.
 >
 > Написано для разных языков, помогите улучшить наши переводы
 ---
@@ -71,7 +71,7 @@ readme += `\n___
 > L'application a été développée avec plusieurs composants interactifs avec des transitions et des animations riches en fonctionnalités.
 > Avec une interface totalement adaptable et réactive à la taille de l'écran de l'appareil utilisé.
 #### Aide aussi
-> Si vous trouvez une erreur ou souhaitez apporter une idée au projet, créez un [issue](https://github.com/lucasferreiralimax/criarcurriculo/issues/new). Votre aide sera grandement appréciée.
+> Si vous trouvez une erreur ou souhaitez apporter une idée au projet, créez un [issue](https://github.com/criar-art/curriculo.vivo/issues/new). Votre aide sera grandement appréciée.
 >
 > Rédigé pour différentes langues, aidez à améliorer nos traductions
 ---
@@ -82,7 +82,7 @@ readme += `\n___
 > Uygulama geçişler ve animasyonlar, kullanılabilirlik açısından zengin çeşitli etkileşimli bileşenleri ile geliştirilmiştir.
 > Kullanılan cihazın ekran boyutuna tamamen uyarlanabilir ve tepki veren bir arabirim.
 #### Ayrıca yardım
-> Bir hata bulursanız veya projeye bir fikir katmak istiyorsanız, bir  oluşturun [sorun](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), Yardımınız büyük ölçüde takdir edilecektir.
+> Bir hata bulursanız veya projeye bir fikir katmak istiyorsanız, bir  oluşturun [sorun](https://github.com/criar-art/curriculo.vivo/issues/new), Yardımınız büyük ölçüde takdir edilecektir.
 >
 > Farklı diller için yazılmış, çevirilerimizi geliştirmeye yardımcı olun
 ---
@@ -93,7 +93,7 @@ readme += `\n___
 > Datblygwyd y cais gyda nifer o gydrannau rhyngweithiol gyda thrawsnewidiadau ac animeiddiadau, sy'n gyfoethog o ran defnyddioldeb.
 > Gyda rhyngwyneb yn gwbl addasadwy ac yn adweithiol i faint sgrin y ddyfais a ddefnyddir.
 #### help hefyd
-> Os byddwch chi'n dod o hyd i wall neu eisiau cyfrannu syniad i'r prosiect, crëwch [broblem](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), mae croeso mawr i'ch help.
+> Os byddwch chi'n dod o hyd i wall neu eisiau cyfrannu syniad i'r prosiect, crëwch [broblem](https://github.com/criar-art/curriculo.vivo/issues/new), mae croeso mawr i'ch help.
 >Wedi'i ysgrifennu mewn sawl iaith, yn helpu i wella ein cyfieithiadau.
 ---
 #### カリキュラム 無料
@@ -103,7 +103,7 @@ readme += `\n___
 >このアプリケーションは、トランジションとアニメーションを備えた複数のインタラクティブなコンポーネントで開発されています。
 >使用するデバイスの画面サイズに完全に適応し、反応するインターフェース。
 #### ヘルプ
->エラーが見つかった場合や、プロジェクトのアイデアを投稿したい場合は、[問題](https://github.com/lucasferreiralimax/criarcurriculo/issues/new), を作成してください。 ：拍手：
+>エラーが見つかった場合や、プロジェクトのアイデアを投稿したい場合は、[問題](https://github.com/criar-art/curriculo.vivo/issues/new), を作成してください。 ：拍手：
 >
 >さまざまな言語のために書かれた、翻訳の改善に役立ちます
 ---
@@ -114,7 +114,7 @@ readme += `\n___
 >该应用程序是使用具有过渡和动画的多个交互式组件开发的，具有丰富的可用性。
 >界面完全适应和反应所用设备的屏幕尺寸。
 #### 帮助也
->如果您发现错误或想要为项目提供想法，请创建 [问题](https://github.com/lucasferreiralimax/criarcurriculo/issues/new)，我们将非常感谢您的帮助。
+>如果您发现错误或想要为项目提供想法，请创建 [问题](https://github.com/criar-art/curriculo.vivo/issues/new)，我们将非常感谢您的帮助。
 >
 >针对不同语言编写，有助于改进我们的翻译
 ---

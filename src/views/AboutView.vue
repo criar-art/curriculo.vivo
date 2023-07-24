@@ -19,8 +19,8 @@ main
     template(#icon)
       ToolingIcon
     template(#heading) Tecnologias
-    | Este projeto é desenvolvido com 
-    a(href="https://github.com/lucasferreiralimax/criarcurriculo" target="_blank")
+    | Este projeto é desenvolvido com
+    a(href="https://github.com/criar-art/curriculo.vivo" target="_blank")
       | Vue.js, Vite, Pinia, Vue Router, Vue Test Utils, Cypress.io, Vuetify, Pug.js e Stylus.
   Box(collapse="true" select="true")
     template(#icon)
