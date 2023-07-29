@@ -1,9 +1,9 @@
 const fs = require("fs");
 
 const urlHosting = "https://criar-curriculo.web.app";
-import { list_languages } from "./src/i18n/list_languages.js";
+import { list_languages } from "./src/i18n/languages.js";
 
-let readme = `# :page_with_curl: Criar Currículo
+let readme = `# :page_with_curl: Currículo Vivo
 > Essa aplicativo web tem o objetivo de ajudar a todos aqueles que precisa criar um currículo, rápido, fácil e grátis.
 > Facilitando a forma que você cria seu currículo com uma usabilidade desenhada para ser simples.
 >
@@ -31,7 +31,7 @@ readme += `\n___
 >
 > Escrito para diversos idiomas, ajude a melhorar nossas traduções :earth_americas::earth_africa::earth_asia:
 ---
-#### Create Curriculum
+#### Curriculum Live
 > This web application aims to help all those who need to create a curriculum, fast, easy and free.
 > Facilitating the way you create your resume with a usability designed to be simple.
 >
@@ -42,7 +42,7 @@ readme += `\n___
 >
 > Written for different languages, help improve our translations
 ---
-#### Crear Resume
+#### Resume Vivo
 > Esta aplicación web tiene el objetivo de ayudar a todos aquellos que necesitan crear un currículum, rápido, fácil y gratis.
 > Facilitando la forma en que crea su currículum con una usabilidad diseñada para ser simple.
 >
