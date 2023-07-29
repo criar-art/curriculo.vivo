@@ -54,7 +54,7 @@ a
     padding 2rem
 
 /* color palette from <https://github.com/vuejs/theme> */
-:root 
+:root
   --vt-c-white #ffffff
   --vt-c-white-soft #f8f8f8
   --vt-c-white-mute #f2f2f2
@@ -78,7 +78,7 @@ a
   --vt-c-text-dark-2 rgba(235, 235, 235, 0.64)
 
 /* semantic color variables for this project */
-/* :root 
+/* :root
   --color-background var(--vt-c-white)
   --color-background-soft var(--vt-c-white-soft)
   --color-background-mute var(--vt-c-white-mute)
@@ -105,14 +105,14 @@ a
     --color-text var(--vt-c-text-dark-2)
 /*  */
 
-*, *::before, *::after 
+*, *::before, *::after
   box-sizing border-box
   margin 0
   position relative
   font-weight normal
   -webkit-tap-highlight-color transparent
 
-body 
+body
   min-height 100vh
   color var(--color-text)
   background var(--color-background)
@@ -125,10 +125,10 @@ body
   -webkit-font-smoothing antialiased
   -moz-osx-font-smoothing grayscale
 
-.w-full 
+.w-full
   width: 100%
 
-input[type="date" i]::-webkit-calendar-picker-indicator 
+input[type="date" i]::-webkit-calendar-picker-indicator
   opacity 0
   width: 100%
   height 100%
@@ -139,19 +139,19 @@ input[type="date" i]::-webkit-calendar-picker-indicator
   left 0
   cursor pointer
 
-.v-application__wrap 
+.v-application__wrap
   min-height calc(100vh - 4rem)
 
-.v-autocomplete__selection 
+.v-autocomplete__selection
   padding .2rem .1rem
 
-.ws-wrap 
+.ws-wrap
   white-space pre-wrap
 
-.wd-break 
+.wd-break
   word-break break-word
 
-.menu-active 
+.menu-active
   overflow: hidden
 
 .pointer
