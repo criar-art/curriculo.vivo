@@ -18,7 +18,7 @@ function loginLogout() {
 </script>
 
 <template lang="pug">
-v-btn.nav-btn(color="#222" @click="menuStatus = !menuStatus" icon)
+v-btn.nav-btn(color="#222" @click="menuStatus = !menuStatus" icon aria-label="Menu")
   v-icon(v-if="!menuStatus") mdi-menu
   v-icon(v-if="menuStatus") mdi-close
 nav.nav(:class="{ active: menuStatus }" @click="menuStatus = false")

@@ -31,11 +31,13 @@ Box.experience(v-for="(experience, index) in store.curriculo.experience")
       color="error"
       icon
       small
+      aria-label="Excluir"
     )
       v-icon mdi-close
       v-tooltip(
         activator="parent"
         location="top"
+        aria-label="Excluir"
       ) Excluir
   template(#icon)
     ToolingIcon

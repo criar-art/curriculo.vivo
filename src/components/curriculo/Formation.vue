@@ -23,7 +23,7 @@ function addFormation() {
 }
 </script>
 
-<template lang="pug">   
+<template lang="pug">
 Box.academy(v-for="(formation, index) in store.curriculo.formation")
   template(#actions)
     v-btn.btn-delete(
@@ -31,15 +31,17 @@ Box.academy(v-for="(formation, index) in store.curriculo.formation")
       color="error"
       icon
       small
+      aria-label="Excluir"
     )
       v-icon mdi-close
       v-tooltip(
         activator="parent"
         location="top"
+        aria-label="Excluir"
       ) Excluir
   template(#icon)
     DocumentationIcon
-  template(#heading) Formação {{ formation.course }} 
+  template(#heading) Formação {{ formation.course }}
   v-row
     v-col(cols="12" sm="6")
       v-text-field(label="Instituição" v-model="formation.institute" hide-details="auto" clearable)

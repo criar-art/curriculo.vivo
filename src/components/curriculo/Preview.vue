@@ -79,7 +79,13 @@ section.preview(v-if="checkPreview")
         | Referência:
         a.my-5.mt-0.ml-1(:href="experience.ref" target="_blank")
           | {{ experience.ref }}
-v-btn.btn.my-5.rounded-lg(block @click="magicLucas" color="info" variant="flat" v-if="checkPreview")
+v-btn.btn.my-5.rounded-lg.font-weight-black(
+  block
+  @click="magicLucas"
+  color="info"
+  variant="flat"
+  v-if="checkPreview"
+)
   v-icon.icon mdi-printer
   | Imprimir
 </template>
