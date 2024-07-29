@@ -48,7 +48,7 @@
     "pug": "^3.0.3",
     "sass": "^1.77.8",
     "sass-loader": "^16.0.0",
-    "start-server-and-test": "^2.0.4",
+    "start-server-and-test": "^2.0.5",
     "vite": "^5.3.5",
     "vitest": "^2.0.4",
     "vue-cli-plugin-vuetify": "^2.5.8",
