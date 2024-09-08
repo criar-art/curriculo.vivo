@@ -39,7 +39,7 @@
     "@vue/test-utils": "^2.4.6",
     "@vuetify/vite-plugin": "^1.0.0-alpha.11",
     "cypress": "^13.14.2",
-    "eslint": "^9.9.1",
+    "eslint": "^9.10.0",
     "eslint-plugin-cypress": "^3.5.0",
     "eslint-plugin-vue": "^9.28.0",
     "esm": "^3.2.25",
